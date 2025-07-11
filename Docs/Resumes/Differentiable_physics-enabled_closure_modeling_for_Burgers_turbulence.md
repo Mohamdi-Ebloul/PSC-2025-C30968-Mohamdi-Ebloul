@@ -17,4 +17,7 @@ Modéliser la turbulence avec précision reste un défi majeur. Ce travail se co
 ## 4. Perspectives de recherche  
 **Performance largement améliorée** : le modèle entraîné via differentiable physics dépasse les closures classiques et les modèles ML non structurés sur divers nombres de Reynolds et résolutions 
 **Robustesse multi-grille** : résultat maintenu sans réentrainement sur différentes résolutions.
-Interprétabilité via la structure du modèle, facilitant la compréhension physique.
+**Interprétabilité** via la structure du modèle, facilitant la compréhension physique.
+Étendre à des systèmes PDE plus complexes (Navier–Stokes 2D ou 3D).
+Améliorer la scalabilité du differentiable physics à des simulations volumineuses.
+Etudier la structure du réseau pour une meilleure interprétation physique dans des modèles réalistes.
